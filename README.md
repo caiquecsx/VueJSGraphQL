@@ -1,5 +1,7 @@
 # http-project
 
+## Consuming GraphQL API
+
 ## Project setup
 ```
 npm install
